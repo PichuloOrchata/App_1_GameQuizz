@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GameQuizz</string>
+    <string name="question_cpu">1.- MH Rise Sunbreak tiene malos eventos</string>
+    <string name="question_ram">2.- El nargacuga lunar desaparece hasta que lo golpeas</string>
+    <string name="question_gpu">3.- Los perros machos tienen 3 huevos</string>
+    <string name="question_depre">4.- Es cierto que la depresion es un transtorno comun?</string>
+    <string name="question_doggo">5.- Los perros no viven mas de 10 años</string>
+    <string name="question_dulce">6.- Los dulces producen hiperactividad en niños</string>
+    <string name="question_xbox">7.- Los anillos de la muerte aparecienron en el xbox 360</string>
+
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">falso</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+
+
+    <string name="correct_toast">Muy bien, es correcto :D</string>
+    <string name="incorrect_toast">Es incorrecto :C</string>
+
+    //------------------------------------------------------------------------
+
+    <string name="warning_text">r u sure u want to do this?</string>
+    <string name="show_answer_button">Mostrar respuesta</string>
+    <string name="cheat_button">Cheat :3</string>
+    <string name="judgment_toast">Te recomiendo hacer trampa bro >-.-></string>
+
+
+</resources>
